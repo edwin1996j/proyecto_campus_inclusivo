@@ -1,4 +1,2 @@
-# proyecto_campus_inclusivo
-Juan Diego Hernandez
-Edwin Jaramillo
-Yuren Florez
+# FRONED
+EDWIN JARAMILLO, JUAN HERNANDEZ, YUREN FLOREZ
